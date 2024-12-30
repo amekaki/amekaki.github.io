@@ -97,7 +97,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
-
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
