@@ -54,6 +54,9 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+math:
+  enable: true
+  engine: 'katex'  # 或者使用 'mathjax'，'katex' 渲染更快
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
