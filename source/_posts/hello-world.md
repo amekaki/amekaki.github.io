@@ -26,7 +26,10 @@ More info: [Server](https://hexo.io/docs/server.html)
 ``` bash
 $ hexo generate
 ```
-
+$$
+E = mc^2
+$$
+这是一个行内公式：\( E = mc^2 \)
 More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
